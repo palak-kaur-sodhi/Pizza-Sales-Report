@@ -8,7 +8,7 @@ Pizza industry is a thriving sector with a vast customer base. I have performed 
 
 
 ## Data Sources and Pre-processing:
-CSV file with pizza sales data was used to perform in-depth analysis. I made sure that data was free of errors. Data file was imported to relational database and required SQL queries had been executed for overall analysis. You can find SQL queries in <b> <a href="https://github.com/palak-kaur-sodhi/Pizza-Sales-Report/blob/main/Pizza_sales.sql"> Pizza_sales.sql </a></b> file.
+CSV file with pizza sales data was used to perform in-depth analysis. I made sure that data was free of errors. Data file was imported to relational database and required SQL queries had been executed for overall analysis. You can find SQL queries in <b> <a href="https://github.com/palak-kaur-sodhi/Pizza-Sales-Report/blob/main/Pizza_sales.sql"> pizza_sales.sql </a></b> file.
 
 ## Visualizing Results using Tableau:
 Interactive and dynamic dashboard was designed. Different types of charts such as donut chart, bar chart, area chart, line graph, custom charts were created. KPIs were used to represent important key metrices. Filters were applied to get insights of the selected data.
