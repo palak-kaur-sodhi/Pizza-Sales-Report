@@ -3,12 +3,12 @@
 Pizza industry is a thriving sector with a vast customer base. I have performed Pizza Sales Analysis to maximize profitability of the business and gain data-driven insights. Comprehensive Sales Analysis had been performed for Year 2015 using SQL queries and the results had been visualized using Tableau Desktop. 
 
 ## Objectives:
-1.	Understanding Sales Trend: to identify trends and patterns in pizza weekly sales, peak ordering hours, popular pizza choices and much more.
-2.	Optimizing Inventory Management: to ensure proper utilization of ingredients available with minimal wastage.
-3.	Managing resources: 
+1.	<strong> Understanding Sales Trend: </strong> to identify trends and patterns in pizza weekly sales, peak ordering hours, popular pizza choices and much more.
+2.	<strong> Optimizing Inventory Management: </strong> to ensure proper utilization of ingredients available with minimal wastage.
+
 
 ## Data Sources and Pre-processing:
-CSV file with Pizza Sales Data was used to perform in-depth analysis. I made sure that data was free of errors. Data file was imported to relational database and required SQL queries had been executed for overall analysis.
+CSV file with pizza sales data was used to perform in-depth analysis. I made sure that data was free of errors. Data file was imported to relational database and required SQL queries had been executed for overall analysis. You can find SQL queries in <b> <a href="https://github.com/palak-kaur-sodhi/Pizza-Sales-Report/blob/main/Pizza_sales.sql"> Pizza_sales.sql </a></b> file.
 
 ## Visualizing Results using Tableau:
 Interactive and dynamic dashboard was designed. Different types of charts such as pie chart, bar chart, area chart, line graph, custom charts were created. KPI were used to represent important key metrices. Filters were applied to get insights of the selected data.
